@@ -1,0 +1,14 @@
+.git
+.github
+.idea
+**/.DS_Store
+**/target
+**/*.iml
+**/*.log
+logs
+doc
+bin
+*.md
+LICENSE
+ry.bat
+ry.sh
