@@ -126,9 +126,9 @@ springdoc:
     tags-sorter: alpha
   group-configs:
     - group: 'default'
-      display-name: '测试模块'
+      display-name: '全部模块'
       paths-to-match: '/**'
-      packages-to-scan: com.ruoyi.web.controller.tool
+      packages-to-scan: com.ruoyi
 
 # 防盗链配置
 referer:
